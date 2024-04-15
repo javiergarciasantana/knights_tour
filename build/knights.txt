@@ -1,0 +1,25 @@
+PART 3. Results 
+  1) Path is found. Trials=72
+  2)Path graphically: 
+Y, V ^
+   5 | 15 18  9  4 13
+   4 | 10  5 14 17  8
+   3 | 19 16  7 12  3
+   2 |  6 11  2 21  0
+   1 |  1 20  0  0  0
+     ------------------> X, U
+        1  2  3  4  5  
+Step: 21 X: 3 Y: 1
+
+PART 3. Results 
+  1) Path is found. Trials=91
+  2)Path graphically: 
+Y, V ^
+   5 | 15  0  9  4 13
+   4 | 10  5 14 17  8
+   3 |  0 16  7 12  3
+   2 |  6 11  2  0  0
+   1 |  1 18  0  0  0
+     ------------------> X, U
+        1  2  3  4  5  
+Step: 18 X: 1 Y: 0
